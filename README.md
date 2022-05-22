@@ -3,7 +3,7 @@
 <!--- - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on ...
 --->
-- 📫 How to reach me [...](https://www.linkedin.com/in/alexeyovs/)
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/alexeyovs/)
 
 <!---
 AlexeyInc/AlexeyInc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
