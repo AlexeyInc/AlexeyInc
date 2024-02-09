@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexeyInc
-- 👀 I’m interested in web and blockahin development 
+- 👀 I’m interested in web backend development 
 <!--- - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on ...
 --->
